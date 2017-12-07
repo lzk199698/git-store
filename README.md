@@ -1,4 +1,4 @@
-# Update
+# Update 成功
 
 **如果你觉得移动端适配让人头疼，建议采用最新适配方案：[https://www.w3cplus.com/css/vw-for-layout.html](https://www.w3cplus.com/css/vw-for-layout.html)**
 
